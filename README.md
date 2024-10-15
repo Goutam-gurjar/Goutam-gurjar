@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Goutam-gurjar!
-- 
 - 👀 I recently completed my Bachelor of Computer Applications (BCA) from DAVV University.
 -    My journey in technology has led me to gain practical experience as a Full Stack Developer during my internship,
 -    where I developed a passion for building robust web applications.
